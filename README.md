@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/license-CCBY-yellow)
 
 
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/hausanlp?label=follow&style=social)
-![GitHub followers](https://img.shields.io/github/followers/Hausa-NLP?style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Hausa-NLP.Hausa-NLP)
-[<img src="https://img.shields.io/badge/chat-on slack-yellow.svg?logo=slack">](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA) 
+![GitHub followers](https://img.shields.io/github/followers/hausanlp?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hausanlp.hausanlp)[<img src="https://img.shields.io/badge/chat-on slack-yellow.svg?logo=slack">](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA) 
 [<img src="https://img.shields.io/badge/visit-our site-yellow.svg?logo=web">](https://hausanlp.github.io/) 
 
 
@@ -43,7 +41,6 @@ HausaNLP is a natural language processing group for Hausa language. We aim to pu
 
 Website: hausanlp.github.io   
 Email: hausanlp@gmail.com
-  - [Meeting Notes](#meeting-notes)
 
 
 This document (the README file) is a hub to give you some information about Hausa-NLP project. Jump straight to one of the sections below, or just scroll down to find out more.
