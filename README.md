@@ -45,8 +45,8 @@ This document (the README file) is a hub to give you some information about Haus
 
 ## Table of Contents
 
-  - [Why Hausa language!](#why-hausa-language?)
-  - [Who are we? What are we doing?](#who-we-are-?-What-are-we-doing)
+  - [The problem](#The-problem)
+  - [The solution-what are we doing?](#The-solution-what-are-we-doing)
   - [How can you get involved?](#how-can-you-get-involved)
   - [Latest Hausa papers by HausaNLP and collaborators](#our-papers)
   - [Hausa Language Resource](#hausa-language-resource)
@@ -56,17 +56,17 @@ This document (the README file) is a hub to give you some information about Haus
   
 
 
-## Why Hausa language?
+## The problem: why Hausa language?
 
-Hausa is an Afroasiatic language related to Arabic, Hebrew, Berber, Amharic, and Somali amongst others. Hausa language rivals Swahili language as the most important language on the African continent. Hausa is [ranked as the 27th](https://www.visualcapitalist.com/100-most-spoken-languages/) most spoken language in world. It is spoken by an estimated 64 million people as a first and second language thus, it believed to be one of the most commonly spoken African languages. Despite Hausa being the second most spoken language in Africa, there are no language resources for Hausa natural language processing. We task the first step to break this divide among the rich-resource and low-resource Hausa language.
+Hausa is an Afroasiatic language related to Arabic, Hebrew, Berber, Amharic, and Somali amongst others. Hausa language rivals Swahili language as the most important language on the African continent. Hausa is [ranked as the 27th](https://www.visualcapitalist.com/100-most-spoken-languages/) most spoken language in world. It is spoken by an estimated 64 million people as a first and second language thus. Most Hausa speakers live in Northern Nigeria and Southern Republic of Niger. The language is also spoken in diaspora in urban areas of West Africa, for example, southern and central Nigeria, Benin Republic, Burkina Faso, Cameroon, Ghana, Togo as well as Chad and the Blue Nile Province and western region of the Sudan.
 
-
-## Who we are ? What are we doing?
-
-We are group of academics, researchers, students, ml-engineeers, and NLP ethusiastic with passion for Hausa natural language processing. 
+ Despite Hausa being the second most spoken language in Africa, there are no language resources for Hausa natural language processing. We take the first step to break this divide by creating open language resouce for Hausa language
+ 
 
 
-We are an open source community that develop Hausa language resources and promotes Hausa natural language processing research and collaboration.
+## The solution - what are we doing?
+
+We are open community of academics, researchers, students, ml-engineeers, and NLP ethusiastic with passion for Hausa natural language processing. We aim to democratize Hausa-NLP by developing Hausa language resourcesd, promotes Hausa natural language processing research, and collaboration among relevant stakeholders.
 
 
 
