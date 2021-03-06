@@ -48,7 +48,7 @@ This document (the README file) is a hub to give you some information about Haus
 ## Table of Contents
 
   - [Welcome!](#welcome)
-  - [Who are we? What are we doing?](#What-are-we-doing)
+  - [Who are we? What are we doing?](#who-we-are-?-What-are-we-doing)
   - [How can you get involved?](#how-can-you-get-involved)
   - [Latest Hausa papers by HausaNLP and collaborators](#our-papers)
   - [Hausa Language Resource](#hausa-language-resource)
@@ -57,7 +57,7 @@ This document (the README file) is a hub to give you some information about Haus
   - [Glossary](#glossary)
   
 
-## What are we doing?
+## Who we are ? What are we doing?
 
 We are group of academics, researchers, students, mL-engineeers, and NLP ethustiatc with passion for Hausa natural language processing. 
 
@@ -86,16 +86,16 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 -->
 
-## our-papers
+## Hausa-NLP papers and our contributers
 
- - [Idris Abdulmumin, Bashir Shehu Galadanci (2019). hauWE: Hausa Words Embedding for Natural Language Processing.](https://arxiv.org/pdf/1911.10708.pdf)
 
-- [Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://arxiv.org/abs/2010.02353)
+- [ Wilhelmina Nekoto, Vukosi Marivate, Tshinondiwa Matsila, Timi Fasubaa, Tajudeen Kolawole, Taiwo Fagbohungbe, Solomon Oluwole Akinola, Shamsuddee Hassan Muhammad, Salomon Kabongo, Salomey Osei, others (2020). Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://arxiv.org/abs/2010.02353)
 
 - [Idris Abdulmumin, Bashir Shehu Galadanci, Abubakar Isa (2020). Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation](https://arxiv.org/pdf/2006.02876.pdf).
 
- - Hate Speech Detection
- - Machine Translation
+ - [Idris Abdulmumin, Bashir Shehu Galadanci (2019). hauWE: Hausa Words Embedding for Natural Language Processing.](https://arxiv.org/pdf/1911.10708.pdf)
+
+
 
 ## Hausa Language Resource
 
