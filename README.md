@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 
 Thank you for visiting Hausa-NLP open community project repository.	
 
-HausaNLP is a natural language processing group for Hausa language. We aim to put Hausa on the NLP map. We are group of enthutuastc and reseracherser. 
-
 Website: hausanlp.github.io   
 Email: hausanlp@gmail.com
 
