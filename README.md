@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 Thank you for visiting Hausa-NLP open community project repository.	
 
-Website: hausanlp.github.io   
+Website: [hausanlp.github.io](hausanlp.github.io  )   
 Email: hausanlp@gmail.com
 
 
@@ -45,7 +45,7 @@ This document (the README file) is a hub to give you some information about Haus
 
 ## Table of Contents
 
-  - [Welcome!](#welcome)
+  - [Why Hausa language!](#why-hausa-language?)
   - [Who are we? What are we doing?](#who-we-are-?-What-are-we-doing)
   - [How can you get involved?](#how-can-you-get-involved)
   - [Latest Hausa papers by HausaNLP and collaborators](#our-papers)
@@ -55,9 +55,16 @@ This document (the README file) is a hub to give you some information about Haus
   - [Glossary](#glossary)
   
 
+
+## Why Hausa language?
+
+Hausa is an Afroasiatic language related to Arabic, Hebrew, Berber, Amharic, and Somali amongst others. Hausa language rivals Swahili language as the most important language on the African continent. Hausa is [ranked as the 27th](https://www.visualcapitalist.com/100-most-spoken-languages/) most spoken language in world. It is spoken by an estimated 64 million people as a first and second language thus, it believed to be one of the most commonly spoken African languages. Despite Hausa being the second most spoken language in Africa, there are no language resources for Hausa natural language processing. We task the first step to break this divide among the rich-resource and low-resource Hausa language.
+
+
 ## Who we are ? What are we doing?
 
-We are group of academics, researchers, students, mL-engineeers, and NLP ethustiatc with passion for Hausa natural language processing. 
+We are group of academics, researchers, students, ml-engineeers, and NLP ethusiastic with passion for Hausa natural language processing. 
+
 
 We are an open source community that develop Hausa language resources and promotes Hausa natural language processing research and collaboration.
 
