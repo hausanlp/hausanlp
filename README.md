@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,  Welcome! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Sannu da Zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
 
 <!--
 **hausa-nlp/Hausa-NLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 
 
 ## Welcome!
-
+<!--
 First and foremost, Welcome! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Sannu da Zuwa !!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> 
+-->
 
 Thank you for visiting Hausa-NLP open community project repository.	
 
@@ -127,3 +128,4 @@ Thank you so much (mun gode!) for visiting the project and we do hope that you'l
 * **Roadmap**: a document outlining the schedule of work to be done on a project
 * **Milestone**: an event or state marking a specific stage in development on the project
 * **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects
+
