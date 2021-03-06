@@ -88,7 +88,12 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 ## our-papers
 
- - Sentiment Analysis
+ - [Idris Abdulmumin, Bashir Shehu Galadanci (2019). hauWE: Hausa Words Embedding for Natural Language Processing.](https://arxiv.org/pdf/1911.10708.pdf)
+
+- [Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://arxiv.org/abs/2010.02353)
+
+- [Idris Abdulmumin, Bashir Shehu Galadanci, Abubakar Isa (2020). Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation](https://arxiv.org/pdf/2006.02876.pdf).
+
  - Hate Speech Detection
  - Machine Translation
 
