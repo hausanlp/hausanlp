@@ -52,9 +52,7 @@ This document (the README file) is a hub to give you some information about Haus
   - [How can you get involved?](#how-can-you-get-involved)
   - [Latest Hausa papers by HausaNLP and collaborators](#our-papers)
   - [Hausa Language Resource](#hausa-language-resource)
-  - [Latest Hausa Blog post](#latest-hausa-blog-post)
   - [Meeting Notes](#Meeting-Notes )
-  - [Maintainers (Hall of Fame)](#maintainers-hall-of-fame)
   - [Contact us](#contact-us)
   - [Glossary](#glossary)
   
@@ -105,7 +103,6 @@ Please note that it's very important to us that we maintain a positive and suppo
 
    - This is a [meeting notes](https://hausanlp.github.io/meetings-note/) for our weekly meeting
 
-## Latest Hausa Blog post
 
 
 <!-- TODO: Add last video link 
