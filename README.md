@@ -95,7 +95,7 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 ## Meeting Notes 
 
-   - This is a meeting note for our weekly meeting
+   - This is a [meeting notes](https://hausanlp.github.io/meetings-note/) for our weekly meeting
 
 ## Latest Hausa Blog post
 
