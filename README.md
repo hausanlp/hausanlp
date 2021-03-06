@@ -53,7 +53,7 @@ This document (the README file) is a hub to give you some information about Haus
   - [Latest Hausa papers by HausaNLP and collaborators](#our-papers)
   - [Hausa Language Resource](#hausa-language-resource)
   - [Latest Hausa Blog post](#latest-hausa-blog-post)
-  - [Meeting Notes](#meeting-notes)
+  - [Meeting Notes](#Meeting-Notes )
   - [Maintainers (Hall of Fame)](#maintainers-hall-of-fame)
   - [Contact us](#contact-us)
   - [Glossary](#glossary)
@@ -69,16 +69,24 @@ We are an open source community that develop Hausa language resources and promot
 
 ## How can you get involved?
 
-If you think you can help in any way possible(and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](../../issues/1).
+If you think you can help in any way possible(and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our contributors guidlines
 
+<!--
 
+[contributors' guidelines](CONTRIBUTING.md) and our [roadmap](../../issues/1).
+
+-->
    - Join our WhatsApp
    - Join  our [Slack](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA)
    - Join our [Google group](hausa-nlp@googlegroups.com)
    - Want be featured on our website? send us your details via hausanlp@gmail.com and use this as [template](https://hausanlp.github.io/author/ibrahim-said-ahmad/)
 
-Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
+Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct.
 
+<!--
+[code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
+
+-->
 
 ## our-papers
 
