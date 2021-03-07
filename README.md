@@ -92,7 +92,7 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 -->
 
-## Hausa-NLP papers and our collaborators
+## Hausa-NLP papers and our collaborators papers
 
 
 
