@@ -66,13 +66,13 @@ Hausa is an Afroasiatic language related to Arabic, Hebrew, Berber, Amharic, and
 
 ## The solution - what are we doing?
 
-We are open community of academics, researchers, students, ml-engineeers, and NLP ethusiastic with passion for Hausa natural language processing. We aim to democratize Hausa-NLP by developing Hausa language resourcesd, promotes Hausa natural language processing research, and collaboration among relevant stakeholders.
+We are open community of academics, researchers, students, ml-engineeers, and NLP ethusiastics with passion for Hausa natural language processing. We aim to democratize Hausa-NLP by developing Hausa language resourcesd, promotes Hausa natural language processing research, and collaboration among relevant stakeholders.
 
 
 
 ## How can you get involved?
 
-If you think you can help in any way possible(and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our contributors guidlines
+If you think you can help in any way possible(and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our contributors guidlines (will soon be available). Join our group in these channels:
 
 <!--
 
@@ -82,7 +82,7 @@ If you think you can help in any way possible(and we bet you can) or in any of t
    - Join our WhatsApp
    - Join  our [Slack](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA)
    - Join our [Google group](hausa-nlp@googlegroups.com)
-   - Want be featured on our website? send us your details via hausanlp@gmail.com and use this as [template](https://hausanlp.github.io/author/ibrahim-said-ahmad/)
+   - To be feature on our website? send us your details via hausanlp@gmail.com and use this as a [template](https://hausanlp.github.io/author/ibrahim-said-ahmad/)
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct.
 
@@ -91,12 +91,14 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 -->
 
-## Hausa-NLP papers and our contributers
+## Hausa-NLP papers and our collaborators
+
+
+
+- [Idris Abdulmumin, Bashir Shehu Galadanci, Abubakar Isa (2020). Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation](https://arxiv.org/pdf/2006.02876.pdf).
 
 
 - [ Wilhelmina Nekoto, Vukosi Marivate, Tshinondiwa Matsila, Timi Fasubaa, Tajudeen Kolawole, Taiwo Fagbohungbe, Solomon Oluwole Akinola, Shamsuddee Hassan Muhammad, Salomon Kabongo, Salomey Osei, others (2020). Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://arxiv.org/abs/2010.02353)
-
-- [Idris Abdulmumin, Bashir Shehu Galadanci, Abubakar Isa (2020). Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation](https://arxiv.org/pdf/2006.02876.pdf).
 
  - [Idris Abdulmumin, Bashir Shehu Galadanci (2019). hauWE: Hausa Words Embedding for Natural Language Processing.](https://arxiv.org/pdf/1911.10708.pdf)
 
@@ -104,8 +106,9 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 ## Hausa Language Resource
 
-   - Sentiment Lexicons
-   - Hausa corpus
+At the moment, we have a couple of resources that can be useful. Check any of the resources below:
+
+   - Hausa Tweets corpus
    - Translated Hausa sentiment lexicons 
   
 
