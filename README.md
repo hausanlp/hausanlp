@@ -106,10 +106,6 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 ## Hausa Language Resource
 
-At the moment, we have a couple of resources that can be useful. Check any of the resources below:
-
-   - Hausa Tweets corpus
-   - Translated Hausa sentiment lexicons 
   
 
 ## Meeting Notes 
