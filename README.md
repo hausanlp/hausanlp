@@ -107,6 +107,11 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 ## Hausa Language Resource
 
+This website contains blogposts in Hausa.
+
+<!-- 
+http://indigenousblogs.com/ha/
+-->
   
 
 ## Weekly Meeting  
