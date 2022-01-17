@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## Welcome!
 
-Thank you for visiting Hausa-NLP open community project repository.	
+Thank you for visiting HausaNLP open community project repository.	
 
 Website: [https://www.hausanlp.org](https://www.hausanlp.org)   
 Email: hausanlp@gmail.com
