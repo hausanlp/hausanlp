@@ -116,7 +116,6 @@ http://indigenousblogs.com/ha/
 
    - Add our [Google calender](https://calendar.google.com/calendar/u/0?cid=aGF1c2FubHBAZ21haWwuY29t) to get our weekly meeting notifcation with a link to Join via Google meetup. 
    - Weekly Google meetup link is [here](https://meet.google.com/pzq-qbpp-sxf)
-   - This is a [meeting notes](https://hausanlp.github.io/meetings-note) for our weekly meeting
   
 
 
