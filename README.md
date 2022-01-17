@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 Thank you for visiting Hausa-NLP open community project repository.	
 
-Website: [hausanlp.github.io](https://www.hausanlp.org)   
+Website: [https://www.hausanlp.org](https://www.hausanlp.org)   
 Email: hausanlp@gmail.com
 
 
