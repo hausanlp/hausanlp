@@ -81,9 +81,9 @@ If you think you can help in any way possible(and we bet you can) or in any of t
 
    - Join  our [Slack](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA) group.
 -->
-<!--
    - Join our [Google group](hausa-nlp@googlegroups.com)
    - To be feature on our website? send us your details via hausanlp@gmail.com and use this as a [template](https://hausanlp.github.io/author/ibrahim-said-ahmad/)
+
 -->
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct.
 
