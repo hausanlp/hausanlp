@@ -98,7 +98,7 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 ## Hausa Language Resource
 
-http://indigenousblogs.com/ha/
+Check our [Awesome-Hausa-NLP](https://github.com/hausanlp/Awesome-Hausa-NLP)
 
   
 <!-- 
