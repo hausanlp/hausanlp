@@ -58,11 +58,9 @@ This document (the README file) is a hub to give you some information about Haus
 
 ## The problem: why Hausa language?
 
-Hausa is an Afroasiatic language related to Arabic, Hebrew, Berber, Amharic, and Somali amongst others. Hausa rivals Swahili language as the most important language on the African continent. Hausa is [ranked as the 27th](https://www.visualcapitalist.com/100-most-spoken-languages/) most spoken language in the world. It is spoken by an estimated 64 million people as a first and second language. Most Hausa speakers live in Nigeria and Southern Republic of Niger. The language is also spoken in other African countries such as Benin Republic, Chad, Burkina Faso, Cameroon, Ghana, Togo, and Sudan.
+Hausa is an Afroasiatic language related to Arabic, Hebrew, Berber, Amharic, and Somali, amongst others. Hausa rivals the Swahili language as the most important language on the African continent. Hausa is [ranked as the 27th](https://www.visualcapitalist.com/100-most-spoken-languages/) most spoken language in the world. It is spoken by an estimated 64 million people as a first and second language. Most Hausa speakers live in Nigeria and the Southern Republic of Niger. The language is also spoken in other African countries such as the Benin Republic, Chad, Burkina Faso, Cameroon, Ghana, Togo, and Sudan.
 
- Despite Hausa being the second most spoken language in Africa, there are no language resources for Hausa natural language processing. We take the first step to break this digital divide by creating open  resouce for Hausa language.
- 
-
+Despite Hausa being the second most spoken language in Africa, there are no language resources for Hausa natural language processing. We take the first step to breaking this digital divide by creating an open resource for the Hausa language.
 
 ## The solution - what are we doing?
 
