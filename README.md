@@ -64,13 +64,12 @@ Despite Hausa being the second most spoken language in Africa, there are no lang
 
 ## The solution - what are we doing?
 
-We are open community of academics, researchers, students, ml-engineeers, and NLP ethusiastics with passion for Hausa natural language processing. We aim to democratize Hausa-NLP by developing Hausa language resourcesd, promotes Hausa natural language processing research, and collaboration among relevant stakeholders.
-
+We are an open community of academics, researchers, students, ML-engineers, and NLP enthusiasts with a passion for Hausa natural language processing. We aim to democratise Hausa-NLP by developing Hausa language resources, promoting Hausa natural language processing research, and fostering collaboration among relevant stakeholders.
 
 
 ## How can you get involved?
 
-If you think you can help in any way possible(and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our contributors guidlines (will soon be available). Join our group in these channels:
+If you think you can help in any way (and we're sure you can) or in any of the many areas we haven't yet thought of (and we're *sure* you can), please feel free to reach us via our email: hausanlp@gmail.com
 
 <!--
 
@@ -78,38 +77,31 @@ If you think you can help in any way possible(and we bet you can) or in any of t
 
 
    - Join  our [Slack](https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA) group.
--->
+
    - Join our [Google group](hausa-nlp@googlegroups.com)
    - To be feature on our website? send us your details via hausanlp@gmail.com and use this as a [template](https://hausanlp.github.io/author/ibrahim-said-ahmad/)
 
-<!--
-
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our code of conduct.
--->
-<!--
+
+
 [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
 -->
 
 ## Hausa-NLP papers and our collaborators papers
 
-
-
-- [Idris Abdulmumin, Bashir Shehu Galadanci, Abubakar Isa (2020). Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation](https://arxiv.org/pdf/2006.02876.pdf).
-
-
-- [ Wilhelmina Nekoto, Vukosi Marivate, Tshinondiwa Matsila, Timi Fasubaa, Tajudeen Kolawole, Taiwo Fagbohungbe, Solomon Oluwole Akinola, Shamsuddee Hassan Muhammad, Salomon Kabongo, Salomey Osei, others (2020). Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://arxiv.org/abs/2010.02353)
-
  - [Idris Abdulmumin, Bashir Shehu Galadanci (2019). hauWE: Hausa Words Embedding for Natural Language Processing.](https://arxiv.org/pdf/1911.10708.pdf)
+
+ - [ Wilhelmina Nekoto, Vukosi Marivate, Tshinondiwa Matsila, Timi Fasubaa, Tajudeen Kolawole, Taiwo Fagbohungbe, Solomon Oluwole Akinola, Shamsuddee Hassan Muhammad, Salomon Kabongo, Salomey Osei, others (2020). Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://arxiv.org/abs/2010.02353)
 
 
 
 ## Hausa Language Resource
 
-<!-- 
 http://indigenousblogs.com/ha/
--->
+
   
+<!-- 
 
 ## Weekly Meeting  
 
@@ -119,7 +111,7 @@ http://indigenousblogs.com/ha/
 
 
 
-<!-- TODO: Add last video link 
+ TODO: Add last video link 
 
 ## Maintainers (Hall of Fame)
 
