@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 Thank you for visiting HausaNLP open community project repository.	
 
 Website: [https://www.hausanlp.org](https://www.hausanlp.org)   
-Email: hausanlp@gmail.com
+Email: shamsuddeen2004@gmail.com
 
 
 This document (the README file) is a hub to give you some information about Hausa-NLP project. Jump straight to one of the sections below, or just scroll down to find out more.
